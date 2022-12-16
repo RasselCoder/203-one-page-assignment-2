@@ -16,8 +16,8 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    width: 1345px;
-    height: 700px;
+    width: 1348px;
+    height: 710px;
 }
 
 .content1{
@@ -48,5 +48,58 @@ body{
     
 }
 
+/* section-2 */
+.section2{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    background-color: white;
+}
 
+.search-heading{
+    font-size: 35px;
+    margin-bottom: 10px;
+    
+}
 
+.form{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: aqua;
+    display: inline-flex;
+    padding: 50px 150px 50px 150px;
+    border-radius: 5px
+
+    
+}
+#domain-name{
+    font-size: 18px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: aqua ;
+}
+
+#domain{
+    width: 80px;
+    font-size: 18px;
+    border: none;
+    background-color: aqua;
+}
+
+#search{
+    background-color: blue;
+    border: none;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    color: white;
+    padding: 10px 0 10px 0;
+    width: 120px;
+    font-size: 18px
+    
+}
+.small{
+    font-size: 20px;
+    display: inline-block;
+    padding-top: 10px;
+    
+} 
