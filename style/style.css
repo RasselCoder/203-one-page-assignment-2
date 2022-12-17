@@ -147,3 +147,103 @@ body{
 .section3 .second-div{
     padding-right: 50px;
 }
+
+/* section-5 */
+#iamage{
+    width: 400px;
+    height: 400px;
+}
+.position{
+    background-color: aquamarine;
+    padding: 20px 20px;
+    border-radius: 50%;
+    position: absolute;
+    left: 530px;
+    top: 2000px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+
+.position2{
+    background-color: aquamarine;
+    padding: 20px 20px;
+    border-radius: 50%;
+    position: absolute;
+    left: 530px;
+    top: 2200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+
+.section5{
+    display: flex;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+.position-div{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+    background-color: cornsilk;
+    text-align: left;
+    text-justify: auto;
+    padding: 10px 50px 40px 70px;
+    margin: 10px 80px 10px 30px;
+
+}
+.position-img{
+    margin-left: 80px;
+    margin-right: 60px;
+}
+.position-div h2{
+    font-size: 30px;
+}
+/* bbbbbb */
+.section5B{
+    display: flex;
+    margin-top: 70px;
+    margin-bottom: 60px;
+    margin-left: 50px;
+}
+
+
+.positionB{
+    background-color: aquamarine;
+    padding: 20px 20px;
+    border-radius: 50%;
+    position: absolute;
+    left: 40px;
+    top: 2500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+
+    .position2B{
+        background-color: aquamarine;
+        padding: 20px 20px;
+        border-radius: 50%;
+        position: absolute;
+        left: 40px;
+        top: 2700px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+    
+    }
+
+    .position-divB{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        border-radius: 5px;
+        background-color: cornsilk;
+        text-align: left;
+        text-justify: auto;
+        padding: 10px 50px 40px 70px;
+        margin: 10px 80px 10px 30px;
+    
+    }
+    .position-divB h2{
+        font-size: 30px;
+    }
+
+    .position-imgB{
+        margin-right: 80px;
+    }
