@@ -215,7 +215,7 @@ body{
     border-radius: 50%;
     position: absolute;
     left: 40px;
-    top: 2500px;
+    top: 2480px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
 
     .position2B{
@@ -224,7 +224,7 @@ body{
         border-radius: 50%;
         position: absolute;
         left: 40px;
-        top: 2700px;
+        top: 2680px;
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     
     
@@ -246,4 +246,52 @@ body{
 
     .position-imgB{
         margin-right: 80px;
+    }
+
+    /* section-8 */
+    #section8{
+        display: flex;
+        padding-left: 0px;
+        color: white;
+        padding-top: 90px;
+        padding-bottom: 90px;
+        
+    }
+    
+
+    .section8{
+        
+        background-color: rgb(46, 32, 246);
+        margin-bottom: 0;
+    }
+
+    .section8 a{
+        display: inline-block;
+        text-decoration: none;
+        color: white;
+    }
+
+    .section8 a:hover{
+        color: blue;
+    }
+
+    .section8-div{
+        color: white;
+        padding-left: 230px;
+        padding-right: 60px;
+    }
+
+    .section8-div2{
+        padding-right: 70px;
+    }
+    .section8-div3{
+        padding-right: 80px;
+    }
+
+   
+    .section8 footer{
+        text-align: center;
+        color: white;
+        padding-bottom: 20px;
+    
     }
